@@ -17,7 +17,7 @@
 
 
 <p align="left">
-  <a href="www.linkedin.com/in/jeremias-escobedo-837275166" alt="Linkedin" target="_blank">
+  <a href="www.linkedin.com/in/jeremias-escobedo-837275166" alt="Linke" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:atrconjerex@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
