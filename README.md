@@ -4,18 +4,16 @@
 
 ## 📑 Sobre mi:
 
-# Desarrollador Web Full Stack
-JavaScript || HTML & CSS || React || Redux || NodeJS || Express || postgres SQL || C++ || Python
+* Desarrollador Web Full Stack
 
-# Programación Orientada a Objetos con |Visual Basic|
+* Programación Orientada a Objetos con |Visual Basic|
 
-# Informática en General, mantenimiento de Sistemas Operativos, Hardware
+* Informática en General, mantenimiento de Sistemas Operativos, Hardware
 
-# Reparación y mantenimiento general en dispositivos móviles Android & Apple OS
+* Reparación y mantenimiento general en dispositivos móviles Android & Apple OS
 
 
-🌎 Contact me: ⤵️
-
+# 🌎 Contact me: ⤵️
 
 
 <p align="left">
