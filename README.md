@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8px"> Hola! Mi nombre es Jeremias </h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hola! Cómo estás? mi nombre es Jeremias</h1></img>
 
 
 
