@@ -1,20 +1,13 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hola! Cómo estás? mi nombre es Jeremias</h1></img>
-
-
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hola! Qué tal? mi nombre es Jeremias</h1></img>
 
 ## 📑 Sobre mi:
 
-* Desarrollador Web Full Stack
+Soy Jere, un joven que, desde pequeño, me apasiona la informática, varias ramas del mundo IT son las que me llaman la atención,
+pero debido a que también me gusta viajar y lo hago seguido jej, la programación terminó siendo la que me atrapó.
+Mis pasatiempos son el diseño, la producción de musica y video, la agricultura y la lectura de la biblia, ya que soy un seguidor de Jesús, u otros libros.
+Desde ya gracias por pasarte por mi GitHub.
 
-* Programación Orientada a Objetos con |Visual Basic|
-
-* Informática en General, mantenimiento de Sistemas Operativos, Hardware
-
-* Reparación y mantenimiento general en dispositivos móviles Android & Apple OS
-
-
-## 🌎 Contact me: ⤵️
-
+## 🌎 Contáctame: ⤵️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jeremias-escobedo-837275166/" alt="Linke" target="_blank">
@@ -25,9 +18,6 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>  
 
-
-----
-
 ## ⭐Conocimientos
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -37,8 +27,6 @@
 <code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="64" src="https://img2.freepng.es/20180408/pew/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg" alt="C++"/></code>
 <code><img height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgresql"/></code>
-
----
 
 ## Soft Skils 
 ![](https://img.shields.io/badge/Decision%20making-2D333B?style=for-the-badge)
