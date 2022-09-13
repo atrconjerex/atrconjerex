@@ -2,10 +2,8 @@
 
 ## 📑 Sobre mi:
 
-Soy Jere, un joven que, desde pequeño, me apasiona la informática, varias ramas del mundo IT son las que me llaman la atención,
-pero debido a que también me gusta viajar y lo hago seguido jej, la programación terminó siendo la que me atrapó.
-Mis pasatiempos son el diseño, la producción de musica y video, la agricultura y la lectura de la biblia, ya que soy un seguidor de Jesús, u otros libros.
-Desde ya gracias por pasarte por mi GitHub.
+Hola, que tal? Soy Jere, un joven que, desde pequeño le apasiona la informática. Varias ramas del mundo IT son las que llamaron mi atención, pero debido a que también me gusta viajar y lo hago seguido jej, la programación terminó siendo la que me atrapó.
+Mis pasatiempos son el diseño, la producción de musica y video, la agricultura y la lectura de la biblia (ya que soy un seguidor de Jesús) u otros libros. <br/> Desde ya gracias por pasarte por mi GitHub.
 
 ## 🌎 Contáctame: ⤵️
 
