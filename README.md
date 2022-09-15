@@ -8,12 +8,12 @@ Mis pasatiempos son el diseño, la producción de musica y video, la agricultura
 ## 🌎 Contáctame: ⤵️
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jeremias-escobedo-837275166/" alt="Linke" target="_blank">
+  <a href="https://www.linkedin.com/in/jeremias-escobedo-837275166/" alt="not Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:atrconjerex@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:atrconjerex@gmail.com" alt="not Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/jeremias.escobedo.1/" alt="Facebook" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/atrconjerex/" alt="not IG" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&color=pink&logo=instagram&logoColor=ultraviolet"/></a>
 </p>  
 
 ## ⭐Conocimientos
